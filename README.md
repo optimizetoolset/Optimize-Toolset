@@ -4,6 +4,7 @@
 
 👋 Hi! Welcome to Optimize Toolset’s public issue tracker and feature requests repo.
 
+
 ## Submitting an issue or feature request
 
 Have an issue you’d like to report or a feature request you’d like to make? Well,
@@ -19,6 +20,7 @@ the most pressing or promising issues and requests.
 And, if you don’t find an existing issue, please create a __new issue__ by using
 the provided template.
 
+
 ## Additional support or questions
 
 If you have an issue that you feel is only relevant to your account, or a feature
@@ -33,11 +35,12 @@ Send me an email __hello@optimizetoolset.com__
 
 I look forward to hearing from you!
 
+
 ## Thank you! 🙏
 
 Thanks a lot for your interest and support of [optimizetoolset.com](https://optimizetoolset.com).
 Your interest and participation goes a long way in keeping the motivation high
 and the dream alive.
 
-Thanks,
+Thanks,<br />
 [Ryan](https://github.com/ryanhefner) 🤙
